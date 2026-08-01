@@ -1,8 +1,8 @@
 ---
 include:
   - board: nice_nano@2.0.0
-    shield: sofle_left
+    shield: splitkb_aurora_sofle_left
   - board: nice_nano@2.0.0
-    shield: sofle_right
+    shield: splitkb_aurora_sofle_right
   - board: nice_nano@2.0.0
     shield: settings_reset
