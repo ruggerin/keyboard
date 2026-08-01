@@ -89,8 +89,6 @@
 &kp LSHFT  &kp NUBS &kp MINUS &kp PLUS &kp RBRC &kp PIPE &kp C_NEXT  &to BASE            &kp LBKT   &kp RBKT  &kp QUESTION &kp RBKT  &kp LS(INT1) &kp RSHFT
                     &kp LCTRL &kp LGUI &kp LALT &kp KP_N0 &trans     &kp RET   &trans    &kp LS(INT1) &kp QUESTION &trans
             >;
-
-            sensor-bindings = <&trans &trans>;
         };
 
         adjust_layer {
@@ -108,8 +106,6 @@
 &trans     &kp K_UNDO &kp DOT &kp KP_N3 &kp KP_N2 &kp KP_N1 &trans    &tog BASE          &none      &trans    &none     &trans    &none    &trans
                     &trans   &trans    &trans    &kp RET   &kp KP_N0  &kp RET  &mo RAISE &trans     &trans    &mo BASE
             >;
-
-            sensor-bindings = <&trans &trans>;
         };
 
     };
